@@ -1,1 +1,17 @@
 /* Your code here */
+
+ul {
+  display: flex;
+  width: 305px;
+  flex-wrap: wrap;
+  color: red;
+}
+
+li {
+  border: 10px;
+  color: gray;
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+}
+
